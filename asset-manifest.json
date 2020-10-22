@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/time-tracking/static/css/main.9e025c97.chunk.css",
+    "main.js": "/time-tracking/static/js/main.2ebc5d40.chunk.js",
+    "main.js.map": "/time-tracking/static/js/main.2ebc5d40.chunk.js.map",
+    "runtime-main.js": "/time-tracking/static/js/runtime-main.3e0c5302.js",
+    "runtime-main.js.map": "/time-tracking/static/js/runtime-main.3e0c5302.js.map",
+    "static/js/2.6d6d2137.chunk.js": "/time-tracking/static/js/2.6d6d2137.chunk.js",
+    "static/js/2.6d6d2137.chunk.js.map": "/time-tracking/static/js/2.6d6d2137.chunk.js.map",
+    "index.html": "/time-tracking/index.html",
+    "precache-manifest.2ae609c18b47553dc247ce8a3c1ee71c.js": "/time-tracking/precache-manifest.2ae609c18b47553dc247ce8a3c1ee71c.js",
+    "service-worker.js": "/time-tracking/service-worker.js",
+    "static/css/main.9e025c97.chunk.css.map": "/time-tracking/static/css/main.9e025c97.chunk.css.map",
+    "static/js/2.6d6d2137.chunk.js.LICENSE.txt": "/time-tracking/static/js/2.6d6d2137.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e0c5302.js",
+    "static/js/2.6d6d2137.chunk.js",
+    "static/css/main.9e025c97.chunk.css",
+    "static/js/main.2ebc5d40.chunk.js"
+  ]
+}
